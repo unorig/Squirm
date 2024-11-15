@@ -7,7 +7,7 @@ I am very slowly working my way through the code for Squirm for the Commodore 64
 
 ## The code
 
-This is decompiled into 64Tass. The starting address is $0900.
+This is decompiled into 64Tass. The starting address is $3B1D.
 
 
 
